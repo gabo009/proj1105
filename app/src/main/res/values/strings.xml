@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">proj1105</string>
+    <string name="tvcredito">Credito</string>
+    <string name="hintcredito">Ingrese Credito</string>
+    <string name="tvapellido">Apellido</string>
+    <string name="hintapellido">Ingrese Apellido</string>
+    <string name="tvfecnac">Fecha de Nacimiento</string>
+    <string name="hintfecnac">Ingrese Fecha de Nacimiento</string>
+    <string name="tvnombre">Nombre</string>
+    <string name="hintnombre">Ingrese Nombre</string>
+    <string name="tvrut">Rut</string>
+    <string name="btnguardar">guardar</string>
+    <string name="btneliminar">eliminar</string>
+    <string name="btnservicios">servicios</string>
+    <string name="hintrut">Ingrese Rut</string>
+    <string name="tvservicios">Servicios</string>
+    <string name="tvcontratados">Contratados</string>
+    <string name="tvcantidad">Total:</string>
+</resources>
